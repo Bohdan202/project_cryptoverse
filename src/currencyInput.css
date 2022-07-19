@@ -1,0 +1,27 @@
+.group{
+    width: 180px;
+    margin: 0 auto 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+    gap: 15px;
+}
+
+.group-input{
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #dcdcdc;
+}
+select{
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+    background-color: #1890ff;
+    color: #fff !important;
+}
+
+option {
+    background-color: #fefefe;
+    color: #000 !important;
+}
